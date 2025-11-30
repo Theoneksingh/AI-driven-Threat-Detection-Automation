@@ -15,6 +15,9 @@ This project demonstrates an AI-driven approach to detecting anomalous or malici
 - **Docker (optional)**: For environment reproducibility
 
 ## Project Structure
+
+
+
 AI-Threat-Detection/
 │
 ├── data/ # Sample anonymized network/web traffic logs (CSV)
