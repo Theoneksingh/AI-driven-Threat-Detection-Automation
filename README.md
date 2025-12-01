@@ -14,18 +14,15 @@ This project demonstrates an AI-driven approach to detecting anomalous or malici
 - **Jupyter Notebook**: For analysis and demonstration
 - **Docker (optional)**: For environment reproducibility
 
-## Project Structure
-
-
-
 AI-Threat-Detection/
 │
-├── data/ # Sample anonymized network/web traffic logs (CSV)
-├── notebooks/ # Jupyter notebooks demonstrating workflows
-├── scripts/ # Python scripts for preprocessing, training, and prediction
-├── models/ # Saved ML models (e.g., Random Forest/XGBoost)
-├── README.md # Project description and instructions
-└── requirements.txt # Project dependencies
+├── data/          # Sample anonymized network/web traffic logs (CSV)
+├── notebooks/     # Jupyter notebooks demonstrating workflows
+├── scripts/       # Python scripts for preprocessing, training, prediction
+├── models/        # Saved ML models (Random Forest / XGBoost)
+├── README.md      # Project description and instructions
+└── requirements.txt  # Project dependencies
+
 
 ## Getting Started
 
